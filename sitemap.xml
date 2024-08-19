@@ -45,6 +45,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://luoluokong.github.io/tags/linux/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://luoluokong.github.io/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

@@ -9,6 +9,16 @@
     <copyright>© 2024 J‘Kevin</copyright>
     <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://luoluokong.github.io/subpage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>linux笔记</title>
+      <link>https://luoluokong.github.io/subpage/note-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luoluokong.github.io/subpage/note-linux/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://luoluokong.github.io/subpage/note-linux/feature.webp" />
+    </item>
+    
+    <item>
       <title>测度论笔记</title>
       <link>https://luoluokong.github.io/subpage/note-measure-theory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
